@@ -5,3 +5,19 @@
 * body {
 	font-family: 'Bricolage Grotesque', sans-serif;
 }
+html {
+	background-color: lightblue;
+	background-image: 
+	linear-gradient(to right, rgb(162, 226, 247), rgba(150, 239, 239, 0.788));
+}
+
+h1 {
+	color: rgba(255, 255, 255, 0.76);
+}
+p {
+	color: white;
+}
+
+h3 {
+	font-size: 14px;
+}

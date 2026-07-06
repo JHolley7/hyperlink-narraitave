@@ -20,4 +20,30 @@ p {
 
 h3 {
 	font-size: 14px;
+	color: white;
+}
+
+.redirect-link {
+	color: blue;
+	font-weight: bold;
+}
+
+.button-container {
+	display: flex;
+	gap: 12px;
+	margin: 20px 0;
+}
+
+.choice-link {
+	display: inline-block;
+	padding: 10px 16px;
+	background-color: #007bff;
+	color: white;
+	text-decoration: none;
+	border-radius: 6px;
+	font-weight: bold;
+}
+
+.choice-link:hover {
+	background-color: #0056b3;
 }
